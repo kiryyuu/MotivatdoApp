@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1003004141953",
+    "firebase_url": "https://motivatdo-8be2e-default-rtdb.firebaseio.com",
+    "project_id": "motivatdo-8be2e",
+    "storage_bucket": "motivatdo-8be2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003004141953:android:9b6b08a444573cf0e78880",
+        "android_client_info": {
+          "package_name": "com.binmadhi.motivatdo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003004141953-tmpptn0pcdlhra24oh97lj8odelucvpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRDipKg2E2-PD6mmyNXWUvjBKLpem6jE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003004141953-tmpptn0pcdlhra24oh97lj8odelucvpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Motivatdo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="today">Today</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="total_user_registration_information_s">*Total user registration Information\'s</string>
+    <string name="dashboard">Motivatdo Dashboard</string>
+    <string name="assign_task">Small Reward</string>
+    <string name="special_reward">Special Reward</string>
+    <string name="agent">Account Created Successfully</string>
+    <string name="due_date_dd_mm_yyyy">Due Date [dd/mm/yyyy]</string>
+    <string name="success_message">Congratulations on this Big Success To Reach </string>
+
+</resources>
